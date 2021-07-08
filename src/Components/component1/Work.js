@@ -115,7 +115,6 @@ const Work = (props) => {
             <div className="form-group  d-flex justify-content-between">
               <span>&#8377; {Work_total} </span>
               <a
-                href="/#"
                 onClick={props.onMilestoneIsVisible}
                 className="links text-decoration-none"
               >

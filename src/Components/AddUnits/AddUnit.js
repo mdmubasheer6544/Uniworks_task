@@ -3,7 +3,6 @@ import { useDispatch } from "react-redux";
 import { compActions } from "../Redux/store/Compenent-slice";
 
 const AddUnit = (props) => {
-//   const [unitName, setUnitName] = useState();
   const dispatch = useDispatch();
   const unitTitles = () => {
     props.onAddComponentIsVisible();
@@ -29,7 +28,7 @@ const AddUnit = (props) => {
         </div>
       </div>
       <a
-        href="/#"
+    
         onClick={() => unitTitles()}
         className="links my-1 text-decoration-none"
       >
@@ -83,7 +82,7 @@ const AddUnit = (props) => {
                 </span>
               </div>
             </div>
-            <a href="#" className="links my-1 text-decoration-none">
+            <a className="links my-1 text-decoration-none">
               Add component(s)
             </a>
           </div>
@@ -114,7 +113,7 @@ const AddUnit = (props) => {
                 </span>
               </div>
             </div>
-            <a href="/#" className="links my-1 text-decoration-none">
+            <a className="links my-1 text-decoration-none">
               Add component(s)
             </a>
           </div>

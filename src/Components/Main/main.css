@@ -58,6 +58,9 @@
 .item{
     margin-right: 40px;
 }
+a{
+    cursor: pointer !important;
+}
 
 
 /* //add unit section */

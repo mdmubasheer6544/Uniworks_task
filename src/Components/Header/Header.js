@@ -7,7 +7,7 @@ const Header = () => {
   const Project_total =useSelector(state=>state.comp.Project_total)
   return (
     <nav className="navbar navbar-dark bg-primary text-white justify-content-between px-3">
-      <a className="navbar-brand" href="#">
+      <a className="navbar-brand">
       
         &#60;   Blank
       </a>

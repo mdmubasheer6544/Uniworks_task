@@ -98,7 +98,6 @@ const AddComponents = (props) => {
             <div className="form-group d-flex justify-content-between">
               <span>&#8377; {total} </span>
               <a
-                href="/#"
                 onClick={props.onComponentIsVisible}
                 className="links text-decoration-none"
               >

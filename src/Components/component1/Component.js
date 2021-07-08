@@ -12,7 +12,7 @@ const Component = (props) => {
     <>
       <h5 className="text-center my-2">Component 1 </h5>
       <div className="form-group componentTab d-flex justify-content-between mt-3">
-        <a href="/#"
+        <a 
           className="mb-2 text-decoration-none tabs text-muted"
           onClick={() => {
             setIsWorkVisible("block");
@@ -21,7 +21,7 @@ const Component = (props) => {
         >
           Work
         </a>
-        <a href="/#"
+        <a
           className="mb-2 text-decoration-none tabs text-muted"
           onClick={() => {
             setIsWorkVisible("none");
