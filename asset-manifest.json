@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Uniworks_task/static/css/main.28a9d3b1.chunk.css",
+    "main.js": "/Uniworks_task/static/js/main.2f5832b3.chunk.js",
+    "main.js.map": "/Uniworks_task/static/js/main.2f5832b3.chunk.js.map",
+    "runtime-main.js": "/Uniworks_task/static/js/runtime-main.45e30541.js",
+    "runtime-main.js.map": "/Uniworks_task/static/js/runtime-main.45e30541.js.map",
+    "static/css/2.55959c85.chunk.css": "/Uniworks_task/static/css/2.55959c85.chunk.css",
+    "static/js/2.4070791a.chunk.js": "/Uniworks_task/static/js/2.4070791a.chunk.js",
+    "static/js/2.4070791a.chunk.js.map": "/Uniworks_task/static/js/2.4070791a.chunk.js.map",
+    "static/js/3.057fe6c9.chunk.js": "/Uniworks_task/static/js/3.057fe6c9.chunk.js",
+    "static/js/3.057fe6c9.chunk.js.map": "/Uniworks_task/static/js/3.057fe6c9.chunk.js.map",
+    "index.html": "/Uniworks_task/index.html",
+    "static/css/2.55959c85.chunk.css.map": "/Uniworks_task/static/css/2.55959c85.chunk.css.map",
+    "static/css/main.28a9d3b1.chunk.css.map": "/Uniworks_task/static/css/main.28a9d3b1.chunk.css.map",
+    "static/js/2.4070791a.chunk.js.LICENSE.txt": "/Uniworks_task/static/js/2.4070791a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45e30541.js",
+    "static/css/2.55959c85.chunk.css",
+    "static/js/2.4070791a.chunk.js",
+    "static/css/main.28a9d3b1.chunk.css",
+    "static/js/main.2f5832b3.chunk.js"
+  ]
+}
