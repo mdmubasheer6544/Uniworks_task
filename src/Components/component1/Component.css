@@ -1,0 +1,48 @@
+.componentTab{
+    padding: 0px 65px !important;
+    
+}
+
+.bordersComponent{
+    position: relative;
+}
+.bordersComponent span{
+    position: absolute;
+    color: #dcdcdc;
+    top: -1px;
+    right: 0;
+}
+.bordersComponent p {
+    text-align: center;
+    margin: 10px 0;
+    position: relative;
+    color: #dcdcdc;
+  }
+  
+  .bordersComponent p::before {
+    content: "";
+    position: absolute;
+    width: 150px;
+    height: 1px;
+    background-color: #dcdcdc;
+    top: 13px;
+    left: 10px;
+  }
+  
+  .bordersComponent p::after {
+    content: "";
+    position: absolute;
+    width: 150px;
+    height: 1px;
+    background-color: #dcdcdc;
+    right: 10px;
+    top: 13px;
+  }
+  .tabs:focus{
+      color: #333 !important;
+  }
+  .workList{
+    padding-right: 35px;
+    font-size: 12px;
+  }
+  

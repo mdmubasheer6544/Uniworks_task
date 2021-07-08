@@ -1,0 +1,39 @@
+.addinput {
+  margin-right: 8px;
+}
+
+.borders p {
+  text-align: center;
+  margin: 10px 0;
+  position: relative;
+  color: #dcdcdc;
+}
+.borders{
+    position: relative;
+}
+.borders span{
+    position: absolute;
+    color: #dcdcdc;
+    top: -1px;
+    right: 0;
+}
+
+.borders p::before {
+  content: "";
+  position: absolute;
+  width: 70px;
+  height: 1px;
+  background-color: #dcdcdc;
+  top: 13px;
+  left: 10px;
+}
+
+.borders p::after {
+  content: "";
+  position: absolute;
+  width: 70px;
+  height: 1px;
+  background-color: #dcdcdc;
+  right: 10px;
+  top: 13px;
+}
