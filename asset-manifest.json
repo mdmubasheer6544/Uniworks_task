@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Uniworks_task/static/css/main.28a9d3b1.chunk.css",
-    "main.js": "/Uniworks_task/static/js/main.2f5832b3.chunk.js",
-    "main.js.map": "/Uniworks_task/static/js/main.2f5832b3.chunk.js.map",
+    "main.js": "/Uniworks_task/static/js/main.6059eb40.chunk.js",
+    "main.js.map": "/Uniworks_task/static/js/main.6059eb40.chunk.js.map",
     "runtime-main.js": "/Uniworks_task/static/js/runtime-main.45e30541.js",
     "runtime-main.js.map": "/Uniworks_task/static/js/runtime-main.45e30541.js.map",
     "static/css/2.55959c85.chunk.css": "/Uniworks_task/static/css/2.55959c85.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.55959c85.chunk.css",
     "static/js/2.4070791a.chunk.js",
     "static/css/main.28a9d3b1.chunk.css",
-    "static/js/main.2f5832b3.chunk.js"
+    "static/js/main.6059eb40.chunk.js"
   ]
 }
